@@ -10,7 +10,7 @@ icn/navigator/?desktop=admin
 ```
 
 Go to **Connections** > **Repositories** and click on **New Repository** > **FileNet Content Manager**
-!(New repo)[images/4001-new-repo.png]
+![New repo](images/4001-new-repo.png)
 
 Lets define the `OS01` object store as the new repository.
 
@@ -21,7 +21,7 @@ Lets define the `OS01` object store as the new repository.
 - Object store symbolic name: `OS01` (object store name)
 - Object store display name: `OS01`
 
-!()[images/4002-new-repo.png]
+![new repo setting](images/4002-new-repo.png)
 
 Click **Connect** - if connection is successful -
 
@@ -40,7 +40,7 @@ In the **Browse** tab:
 - Show in Details View: add **Description**
 - Show in Magazine View: add Likes, Tags, Downloads, Comments
 
-!(browse view)[images/4003-browse.png]
+![browse view](images/4003-browse.png)
 
 Click **Save and close**
 
@@ -52,7 +52,7 @@ Go to **Desktop** and open **icn_desktop**,
 
 - Go to the **Layout** tab and select **Browse Content**, change the Default Repository to `OS01` so the blue icon shows beside OS01. Perform the same action to **Search Content**.
 
-!(Mod  default repo)[images/4004-set-def-repo.png]
+![Mod  default repo](images/4004-set-def-repo.png)
 
 Click **Save and close**
 
