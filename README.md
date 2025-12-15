@@ -1,5 +1,23 @@
 # Arrow CP4BA install
 
+## Installing FileNet Addon features
+
+From the ACCE interface:
+```
+https://cpd-cp4ba.apps.itz-bfproc.infra01-lb.wdc04.techzone.ibm.com/cpe/acce/
+```
+
+Select **P8DOMAIN** > **Object Stores** > **OS01**.
+
+Select **Action** > **Install Add-on Features**
+
+![addon](images/3001-addon.png)
+
+In the Addon installation list, select the addons needed and click **OK**.
+
+![addon list](images/3002-addon-list.png)
+
+Click **OK** when done.
 
 ## Setting up connection to OS01 from icn-desktop
 
